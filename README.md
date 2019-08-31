@@ -7,6 +7,8 @@ Implement some algorithms that I learned in class.
 
 ## Description
 
+<img width="283" alt="스크린샷 2019-08-31 오후 11 32 53" src="https://user-images.githubusercontent.com/30333949/64065551-e3522080-cc49-11e9-84e5-ce527d4d7101.png">
+
 The given input file for the above graph is named as ‘HW4.dat” and the given template code named as “main.c” has functions to read ‘HW4.dat’ and construct an adjacency matrix, Adj array and adjacency list, and so on. Please place all files in the same directory to run the program.
 
 
